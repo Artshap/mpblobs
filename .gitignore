@@ -1,0 +1,7 @@
+.vscode/**
+old/**
+test.py
+generate_blobs.py
+heatmap_gen.py
+image.npy
+*.pdf
